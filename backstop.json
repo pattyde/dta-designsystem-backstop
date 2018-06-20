@@ -14,7 +14,7 @@
 			"label": "homepage",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080",
-			"referenceUrl": "https://designsystem.gov.au",
+			"referenceUrl": "https://designsystem.gov.au/",
 			"readyEvent": "",
 			"readySelector": "",
 			"delay": 0,
@@ -30,7 +30,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "get-started page",
+			"label": "/get-started page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/get-started",
 			"referenceUrl": "https://designsystem.gov.au/get-started",
@@ -49,7 +49,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components page",
+			"label": "/components page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components",
 			"referenceUrl": "https://designsystem.gov.au/components",
@@ -68,7 +68,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "templates page",
+			"label": "/templates page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/templates",
 			"referenceUrl": "https://designsystem.gov.au/templates",
@@ -87,7 +87,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "community page",
+			"label": "/community page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/community",
 			"referenceUrl": "https://designsystem.gov.au/community",
@@ -106,7 +106,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "support page",
+			"label": "/support page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/support",
 			"referenceUrl": "https://designsystem.gov.au/support",
@@ -125,7 +125,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "download page",
+			"label": "/download page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/download",
 			"referenceUrl": "https://designsystem.gov.au/download",
@@ -144,7 +144,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/core page",
+			"label": "/components/core page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/core",
 			"referenceUrl": "https://designsystem.gov.au/components/core",
@@ -163,7 +163,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/accordion page",
+			"label": "/components/accordion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/accordion",
 			"referenceUrl": "https://designsystem.gov.au/components/accordion",
@@ -182,7 +182,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/animate page",
+			"label": "/components/animate page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/animate",
 			"referenceUrl": "https://designsystem.gov.au/components/animate",
@@ -201,7 +201,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/body page",
+			"label": "/components/body page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/body",
 			"referenceUrl": "https://designsystem.gov.au/components/body",
@@ -220,7 +220,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/breadcrumbs page",
+			"label": "/components/breadcrumbs page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/breadcrumbs",
 			"referenceUrl": "https://designsystem.gov.au/components/breadcrumbs",
@@ -239,7 +239,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/buttons page",
+			"label": "/components/buttons page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/buttons",
 			"referenceUrl": "https://designsystem.gov.au/components/buttons",
@@ -258,7 +258,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/cta-link page",
+			"label": "/components/cta-link page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/cta-link",
 			"referenceUrl": "https://designsystem.gov.au/components/cta-link",
@@ -277,7 +277,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/callout page",
+			"label": "/components/callout page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/callout",
 			"referenceUrl": "https://designsystem.gov.au/components/callout",
@@ -296,7 +296,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/control-input page",
+			"label": "/components/control-input page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/control-input",
 			"referenceUrl": "https://designsystem.gov.au/components/control-input",
@@ -315,7 +315,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/direction-links page",
+			"label": "/components/direction-links page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/direction-links",
 			"referenceUrl": "https://designsystem.gov.au/components/direction-links",
@@ -334,7 +334,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/footer page",
+			"label": "/components/footer page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/footer",
 			"referenceUrl": "https://designsystem.gov.au/components/footer",
@@ -353,7 +353,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/grid-12 page",
+			"label": "/components/grid-12 page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/grid-12",
 			"referenceUrl": "https://designsystem.gov.au/components/grid-12",
@@ -372,7 +372,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/header page",
+			"label": "/components/header page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/header",
 			"referenceUrl": "https://designsystem.gov.au/components/header",
@@ -391,7 +391,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/headings page",
+			"label": "/components/headings page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/headings",
 			"referenceUrl": "https://designsystem.gov.au/components/headings",
@@ -410,7 +410,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/inpage-nav page",
+			"label": "/components/inpage-nav page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/inpage-nav",
 			"referenceUrl": "https://designsystem.gov.au/components/inpage-nav",
@@ -429,7 +429,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/keyword-list page",
+			"label": "/components/keyword-list page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/keyword-list",
 			"referenceUrl": "https://designsystem.gov.au/components/keyword-list",
@@ -448,7 +448,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/link-list page",
+			"label": "/components/link-list page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/link-list",
 			"referenceUrl": "https://designsystem.gov.au/components/link-list",
@@ -467,7 +467,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/page-alerts page",
+			"label": "/components/page-alerts page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/page-alerts",
 			"referenceUrl": "https://designsystem.gov.au/components/page-alerts",
@@ -486,7 +486,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/progress-indicator page",
+			"label": "/components/progress-indicator page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/progress-indicator",
 			"referenceUrl": "https://designsystem.gov.au/components/progress-indicator",
@@ -505,7 +505,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/responsive-media page",
+			"label": "/components/responsive-media page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/responsive-media",
 			"referenceUrl": "https://designsystem.gov.au/components/responsive-media",
@@ -524,7 +524,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/select page",
+			"label": "/components/select page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/select",
 			"referenceUrl": "https://designsystem.gov.au/components/select",
@@ -543,7 +543,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/skip-link page",
+			"label": "/components/skip-link page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/skip-link",
 			"referenceUrl": "https://designsystem.gov.au/components/skip-link",
@@ -562,7 +562,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/tags page",
+			"label": "/components/tags page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/tags",
 			"referenceUrl": "https://designsystem.gov.au/components/tags",
@@ -581,7 +581,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/text-inputs page",
+			"label": "/components/text-inputs page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/text-inputs",
 			"referenceUrl": "https://designsystem.gov.au/components/text-inputs",
@@ -600,7 +600,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/cards page",
+			"label": "/components/cards page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/cards",
 			"referenceUrl": "https://designsystem.gov.au/components/cards",
@@ -619,7 +619,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/main-nav page",
+			"label": "/components/main-nav page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/main-nav",
 			"referenceUrl": "https://designsystem.gov.au/components/main-nav",
@@ -638,7 +638,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/side-nav page",
+			"label": "/components/side-nav page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/side-nav",
 			"referenceUrl": "https://designsystem.gov.au/components/side-nav",
@@ -657,7 +657,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/table page",
+			"label": "/components/table page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/table",
 			"referenceUrl": "https://designsystem.gov.au/components/table",
@@ -676,7 +676,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/search-box page",
+			"label": "/components/search-box page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/search-box",
 			"referenceUrl": "https://designsystem.gov.au/components/search-box",
@@ -695,7 +695,26 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/core/rationale page",
+			"label": "/components/search page",
+			"cookiePath": "backstop_data/engine_scripts/cookies.json",
+			"url": "http://localhost:8080/components/search",
+			"referenceUrl": "https://designsystem.gov.au/components/search",
+			"readyEvent": "",
+			"readySelector": "",
+			"delay": 0,
+			"hideSelectors": [],
+			"removeSelectors": [],
+			"hoverSelector": "",
+			"clickSelector": "",
+			"postInteractionWait": 0,
+			"selectors": [],
+			"selectorExpansion": true,
+			"expect": 0,
+			"misMatchThreshold": 0.1,
+			"requireSameDimensions": true
+		},
+		{
+			"label": "/components/core/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/core/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/core/rationale",
@@ -714,7 +733,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/core/accessibility page",
+			"label": "/components/core/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/core/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/core/accessibility",
@@ -733,7 +752,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/core/code page",
+			"label": "/components/core/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/core/code",
 			"referenceUrl": "https://designsystem.gov.au/components/core/code",
@@ -752,7 +771,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/core/discussion page",
+			"label": "/components/core/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/core/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/core/discussion",
@@ -771,7 +790,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/core/live page",
+			"label": "/components/core/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/core/live",
 			"referenceUrl": "https://designsystem.gov.au/components/core/live",
@@ -790,7 +809,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/accordion/rationale page",
+			"label": "/components/accordion/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/accordion/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/accordion/rationale",
@@ -809,7 +828,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/accordion/accessibility page",
+			"label": "/components/accordion/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/accordion/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/accordion/accessibility",
@@ -828,7 +847,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/accordion/code page",
+			"label": "/components/accordion/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/accordion/code",
 			"referenceUrl": "https://designsystem.gov.au/components/accordion/code",
@@ -847,7 +866,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/accordion/discussion page",
+			"label": "/components/accordion/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/accordion/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/accordion/discussion",
@@ -866,7 +885,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/accordion/live page",
+			"label": "/components/accordion/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/accordion/live",
 			"referenceUrl": "https://designsystem.gov.au/components/accordion/live",
@@ -885,7 +904,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/animate/rationale page",
+			"label": "/components/animate/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/animate/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/animate/rationale",
@@ -904,7 +923,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/animate/code page",
+			"label": "/components/animate/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/animate/code",
 			"referenceUrl": "https://designsystem.gov.au/components/animate/code",
@@ -923,7 +942,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/animate/discussion page",
+			"label": "/components/animate/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/animate/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/animate/discussion",
@@ -942,7 +961,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/animate/live page",
+			"label": "/components/animate/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/animate/live",
 			"referenceUrl": "https://designsystem.gov.au/components/animate/live",
@@ -961,7 +980,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/body/rationale page",
+			"label": "/components/body/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/body/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/body/rationale",
@@ -980,7 +999,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/body/accessibility page",
+			"label": "/components/body/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/body/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/body/accessibility",
@@ -999,7 +1018,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/body/discussion page",
+			"label": "/components/body/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/body/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/body/discussion",
@@ -1018,7 +1037,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/body/live page",
+			"label": "/components/body/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/body/live",
 			"referenceUrl": "https://designsystem.gov.au/components/body/live",
@@ -1037,7 +1056,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/breadcrumbs/rationale page",
+			"label": "/components/breadcrumbs/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/breadcrumbs/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/breadcrumbs/rationale",
@@ -1056,7 +1075,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/breadcrumbs/accessibility page",
+			"label": "/components/breadcrumbs/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/breadcrumbs/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/breadcrumbs/accessibility",
@@ -1075,7 +1094,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/breadcrumbs/code page",
+			"label": "/components/breadcrumbs/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/breadcrumbs/code",
 			"referenceUrl": "https://designsystem.gov.au/components/breadcrumbs/code",
@@ -1094,7 +1113,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/breadcrumbs/discussion page",
+			"label": "/components/breadcrumbs/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/breadcrumbs/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/breadcrumbs/discussion",
@@ -1113,7 +1132,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/breadcrumbs/live page",
+			"label": "/components/breadcrumbs/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/breadcrumbs/live",
 			"referenceUrl": "https://designsystem.gov.au/components/breadcrumbs/live",
@@ -1132,7 +1151,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/buttons/rationale page",
+			"label": "/components/buttons/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/buttons/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/buttons/rationale",
@@ -1151,7 +1170,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/buttons/accessibility page",
+			"label": "/components/buttons/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/buttons/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/buttons/accessibility",
@@ -1170,7 +1189,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/buttons/code page",
+			"label": "/components/buttons/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/buttons/code",
 			"referenceUrl": "https://designsystem.gov.au/components/buttons/code",
@@ -1189,7 +1208,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/buttons/discussion page",
+			"label": "/components/buttons/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/buttons/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/buttons/discussion",
@@ -1208,7 +1227,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/buttons/live page",
+			"label": "/components/buttons/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/buttons/live",
 			"referenceUrl": "https://designsystem.gov.au/components/buttons/live",
@@ -1227,7 +1246,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/cta-link/rationale page",
+			"label": "/components/cta-link/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/cta-link/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/cta-link/rationale",
@@ -1246,7 +1265,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/cta-link/accessibility page",
+			"label": "/components/cta-link/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/cta-link/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/cta-link/accessibility",
@@ -1265,7 +1284,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/cta-link/code page",
+			"label": "/components/cta-link/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/cta-link/code",
 			"referenceUrl": "https://designsystem.gov.au/components/cta-link/code",
@@ -1284,7 +1303,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/cta-link/discussion page",
+			"label": "/components/cta-link/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/cta-link/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/cta-link/discussion",
@@ -1303,7 +1322,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/cta-link/live page",
+			"label": "/components/cta-link/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/cta-link/live",
 			"referenceUrl": "https://designsystem.gov.au/components/cta-link/live",
@@ -1322,7 +1341,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/callout/rationale page",
+			"label": "/components/callout/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/callout/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/callout/rationale",
@@ -1341,7 +1360,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/callout/accessibility page",
+			"label": "/components/callout/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/callout/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/callout/accessibility",
@@ -1360,7 +1379,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/callout/code page",
+			"label": "/components/callout/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/callout/code",
 			"referenceUrl": "https://designsystem.gov.au/components/callout/code",
@@ -1379,7 +1398,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/callout/discussion page",
+			"label": "/components/callout/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/callout/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/callout/discussion",
@@ -1398,7 +1417,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/callout/live page",
+			"label": "/components/callout/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/callout/live",
 			"referenceUrl": "https://designsystem.gov.au/components/callout/live",
@@ -1417,7 +1436,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/control-input/rationale page",
+			"label": "/components/control-input/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/control-input/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/control-input/rationale",
@@ -1436,7 +1455,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/control-input/accessibility page",
+			"label": "/components/control-input/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/control-input/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/control-input/accessibility",
@@ -1455,7 +1474,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/control-input/code page",
+			"label": "/components/control-input/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/control-input/code",
 			"referenceUrl": "https://designsystem.gov.au/components/control-input/code",
@@ -1474,7 +1493,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/control-input/discussion page",
+			"label": "/components/control-input/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/control-input/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/control-input/discussion",
@@ -1493,7 +1512,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/control-input/live page",
+			"label": "/components/control-input/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/control-input/live",
 			"referenceUrl": "https://designsystem.gov.au/components/control-input/live",
@@ -1512,7 +1531,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/direction-links/rationale page",
+			"label": "/components/direction-links/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/direction-links/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/direction-links/rationale",
@@ -1531,7 +1550,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/direction-links/accessibility page",
+			"label": "/components/direction-links/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/direction-links/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/direction-links/accessibility",
@@ -1550,7 +1569,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/direction-links/code page",
+			"label": "/components/direction-links/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/direction-links/code",
 			"referenceUrl": "https://designsystem.gov.au/components/direction-links/code",
@@ -1569,7 +1588,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/direction-links/discussion page",
+			"label": "/components/direction-links/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/direction-links/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/direction-links/discussion",
@@ -1588,7 +1607,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/direction-links/live page",
+			"label": "/components/direction-links/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/direction-links/live",
 			"referenceUrl": "https://designsystem.gov.au/components/direction-links/live",
@@ -1607,7 +1626,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/footer/rationale page",
+			"label": "/components/footer/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/footer/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/footer/rationale",
@@ -1626,7 +1645,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/footer/accessibility page",
+			"label": "/components/footer/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/footer/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/footer/accessibility",
@@ -1645,7 +1664,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/footer/code page",
+			"label": "/components/footer/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/footer/code",
 			"referenceUrl": "https://designsystem.gov.au/components/footer/code",
@@ -1664,7 +1683,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/footer/discussion page",
+			"label": "/components/footer/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/footer/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/footer/discussion",
@@ -1683,7 +1702,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/footer/live page",
+			"label": "/components/footer/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/footer/live",
 			"referenceUrl": "https://designsystem.gov.au/components/footer/live",
@@ -1702,7 +1721,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/grid-12/rationale page",
+			"label": "/components/grid-12/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/grid-12/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/grid-12/rationale",
@@ -1721,7 +1740,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/grid-12/code page",
+			"label": "/components/grid-12/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/grid-12/code",
 			"referenceUrl": "https://designsystem.gov.au/components/grid-12/code",
@@ -1740,7 +1759,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/grid-12/discussion page",
+			"label": "/components/grid-12/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/grid-12/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/grid-12/discussion",
@@ -1759,7 +1778,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/grid-12/live page",
+			"label": "/components/grid-12/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/grid-12/live",
 			"referenceUrl": "https://designsystem.gov.au/components/grid-12/live",
@@ -1778,7 +1797,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/header/rationale page",
+			"label": "/components/header/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/header/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/header/rationale",
@@ -1797,7 +1816,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/header/accessibility page",
+			"label": "/components/header/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/header/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/header/accessibility",
@@ -1816,7 +1835,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/header/code page",
+			"label": "/components/header/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/header/code",
 			"referenceUrl": "https://designsystem.gov.au/components/header/code",
@@ -1835,7 +1854,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/header/discussion page",
+			"label": "/components/header/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/header/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/header/discussion",
@@ -1854,7 +1873,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/header/live page",
+			"label": "/components/header/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/header/live",
 			"referenceUrl": "https://designsystem.gov.au/components/header/live",
@@ -1873,7 +1892,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/headings/rationale page",
+			"label": "/components/headings/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/headings/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/headings/rationale",
@@ -1892,7 +1911,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/headings/accessibility page",
+			"label": "/components/headings/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/headings/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/headings/accessibility",
@@ -1911,7 +1930,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/headings/code page",
+			"label": "/components/headings/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/headings/code",
 			"referenceUrl": "https://designsystem.gov.au/components/headings/code",
@@ -1930,7 +1949,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/headings/discussion page",
+			"label": "/components/headings/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/headings/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/headings/discussion",
@@ -1949,7 +1968,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/headings/live page",
+			"label": "/components/headings/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/headings/live",
 			"referenceUrl": "https://designsystem.gov.au/components/headings/live",
@@ -1968,7 +1987,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/inpage-nav/rationale page",
+			"label": "/components/inpage-nav/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/inpage-nav/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/inpage-nav/rationale",
@@ -1987,7 +2006,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/inpage-nav/accessibility page",
+			"label": "/components/inpage-nav/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/inpage-nav/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/inpage-nav/accessibility",
@@ -2006,7 +2025,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/inpage-nav/code page",
+			"label": "/components/inpage-nav/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/inpage-nav/code",
 			"referenceUrl": "https://designsystem.gov.au/components/inpage-nav/code",
@@ -2025,7 +2044,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/inpage-nav/discussion page",
+			"label": "/components/inpage-nav/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/inpage-nav/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/inpage-nav/discussion",
@@ -2044,7 +2063,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/inpage-nav/live page",
+			"label": "/components/inpage-nav/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/inpage-nav/live",
 			"referenceUrl": "https://designsystem.gov.au/components/inpage-nav/live",
@@ -2063,7 +2082,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/keyword-list/rationale page",
+			"label": "/components/keyword-list/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/keyword-list/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/keyword-list/rationale",
@@ -2082,7 +2101,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/keyword-list/accessibility page",
+			"label": "/components/keyword-list/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/keyword-list/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/keyword-list/accessibility",
@@ -2101,7 +2120,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/keyword-list/code page",
+			"label": "/components/keyword-list/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/keyword-list/code",
 			"referenceUrl": "https://designsystem.gov.au/components/keyword-list/code",
@@ -2120,7 +2139,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/keyword-list/discussion page",
+			"label": "/components/keyword-list/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/keyword-list/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/keyword-list/discussion",
@@ -2139,7 +2158,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/keyword-list/live page",
+			"label": "/components/keyword-list/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/keyword-list/live",
 			"referenceUrl": "https://designsystem.gov.au/components/keyword-list/live",
@@ -2158,7 +2177,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/link-list/rationale page",
+			"label": "/components/link-list/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/link-list/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/link-list/rationale",
@@ -2177,7 +2196,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/link-list/accessibility page",
+			"label": "/components/link-list/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/link-list/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/link-list/accessibility",
@@ -2196,7 +2215,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/link-list/code page",
+			"label": "/components/link-list/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/link-list/code",
 			"referenceUrl": "https://designsystem.gov.au/components/link-list/code",
@@ -2215,7 +2234,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/link-list/discussion page",
+			"label": "/components/link-list/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/link-list/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/link-list/discussion",
@@ -2234,7 +2253,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/link-list/live page",
+			"label": "/components/link-list/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/link-list/live",
 			"referenceUrl": "https://designsystem.gov.au/components/link-list/live",
@@ -2253,7 +2272,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/page-alerts/rationale page",
+			"label": "/components/page-alerts/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/page-alerts/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/page-alerts/rationale",
@@ -2272,7 +2291,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/page-alerts/accessibility page",
+			"label": "/components/page-alerts/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/page-alerts/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/page-alerts/accessibility",
@@ -2291,7 +2310,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/page-alerts/code page",
+			"label": "/components/page-alerts/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/page-alerts/code",
 			"referenceUrl": "https://designsystem.gov.au/components/page-alerts/code",
@@ -2310,7 +2329,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/page-alerts/discussion page",
+			"label": "/components/page-alerts/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/page-alerts/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/page-alerts/discussion",
@@ -2329,7 +2348,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/page-alerts/live page",
+			"label": "/components/page-alerts/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/page-alerts/live",
 			"referenceUrl": "https://designsystem.gov.au/components/page-alerts/live",
@@ -2348,7 +2367,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/progress-indicator/rationale page",
+			"label": "/components/progress-indicator/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/progress-indicator/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/progress-indicator/rationale",
@@ -2367,7 +2386,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/progress-indicator/accessibility page",
+			"label": "/components/progress-indicator/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/progress-indicator/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/progress-indicator/accessibility",
@@ -2386,7 +2405,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/progress-indicator/code page",
+			"label": "/components/progress-indicator/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/progress-indicator/code",
 			"referenceUrl": "https://designsystem.gov.au/components/progress-indicator/code",
@@ -2405,7 +2424,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/progress-indicator/discussion page",
+			"label": "/components/progress-indicator/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/progress-indicator/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/progress-indicator/discussion",
@@ -2424,7 +2443,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/progress-indicator/live page",
+			"label": "/components/progress-indicator/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/progress-indicator/live",
 			"referenceUrl": "https://designsystem.gov.au/components/progress-indicator/live",
@@ -2443,7 +2462,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/responsive-media/rationale page",
+			"label": "/components/responsive-media/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/responsive-media/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/responsive-media/rationale",
@@ -2462,7 +2481,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/responsive-media/discussion page",
+			"label": "/components/responsive-media/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/responsive-media/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/responsive-media/discussion",
@@ -2481,7 +2500,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/responsive-media/live page",
+			"label": "/components/responsive-media/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/responsive-media/live",
 			"referenceUrl": "https://designsystem.gov.au/components/responsive-media/live",
@@ -2500,7 +2519,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/select/rationale page",
+			"label": "/components/select/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/select/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/select/rationale",
@@ -2519,7 +2538,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/select/accessibility page",
+			"label": "/components/select/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/select/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/select/accessibility",
@@ -2538,7 +2557,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/select/code page",
+			"label": "/components/select/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/select/code",
 			"referenceUrl": "https://designsystem.gov.au/components/select/code",
@@ -2557,7 +2576,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/select/discussion page",
+			"label": "/components/select/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/select/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/select/discussion",
@@ -2576,7 +2595,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/select/live page",
+			"label": "/components/select/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/select/live",
 			"referenceUrl": "https://designsystem.gov.au/components/select/live",
@@ -2595,7 +2614,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/skip-link/rationale page",
+			"label": "/components/skip-link/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/skip-link/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/skip-link/rationale",
@@ -2614,7 +2633,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/skip-link/accessibility page",
+			"label": "/components/skip-link/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/skip-link/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/skip-link/accessibility",
@@ -2633,7 +2652,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/skip-link/code page",
+			"label": "/components/skip-link/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/skip-link/code",
 			"referenceUrl": "https://designsystem.gov.au/components/skip-link/code",
@@ -2652,7 +2671,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/skip-link/discussion page",
+			"label": "/components/skip-link/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/skip-link/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/skip-link/discussion",
@@ -2671,7 +2690,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/skip-link/live page",
+			"label": "/components/skip-link/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/skip-link/live",
 			"referenceUrl": "https://designsystem.gov.au/components/skip-link/live",
@@ -2690,7 +2709,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/tags/rationale page",
+			"label": "/components/tags/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/tags/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/tags/rationale",
@@ -2709,7 +2728,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/tags/accessibility page",
+			"label": "/components/tags/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/tags/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/tags/accessibility",
@@ -2728,7 +2747,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/tags/code page",
+			"label": "/components/tags/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/tags/code",
 			"referenceUrl": "https://designsystem.gov.au/components/tags/code",
@@ -2747,7 +2766,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/tags/discussion page",
+			"label": "/components/tags/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/tags/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/tags/discussion",
@@ -2766,7 +2785,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/tags/live page",
+			"label": "/components/tags/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/tags/live",
 			"referenceUrl": "https://designsystem.gov.au/components/tags/live",
@@ -2785,7 +2804,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/text-inputs/rationale page",
+			"label": "/components/text-inputs/rationale page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/text-inputs/rationale",
 			"referenceUrl": "https://designsystem.gov.au/components/text-inputs/rationale",
@@ -2804,7 +2823,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/text-inputs/accessibility page",
+			"label": "/components/text-inputs/accessibility page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/text-inputs/accessibility",
 			"referenceUrl": "https://designsystem.gov.au/components/text-inputs/accessibility",
@@ -2823,7 +2842,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/text-inputs/code page",
+			"label": "/components/text-inputs/code page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/text-inputs/code",
 			"referenceUrl": "https://designsystem.gov.au/components/text-inputs/code",
@@ -2842,7 +2861,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/text-inputs/discussion page",
+			"label": "/components/text-inputs/discussion page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/text-inputs/discussion",
 			"referenceUrl": "https://designsystem.gov.au/components/text-inputs/discussion",
@@ -2861,7 +2880,7 @@
 			"requireSameDimensions": true
 		},
 		{
-			"label": "components/text-inputs/live page",
+			"label": "/components/text-inputs/live page",
 			"cookiePath": "backstop_data/engine_scripts/cookies.json",
 			"url": "http://localhost:8080/components/text-inputs/live",
 			"referenceUrl": "https://designsystem.gov.au/components/text-inputs/live",
